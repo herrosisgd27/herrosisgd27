@@ -1,7 +1,7 @@
-- 👋 Halo gw @herrosisgd27
-- 👀 Gw adalah seorang mahasiswa IT
-- 🌱 di sini w mau berbagi apa yang udah gua pelajarin dari kampus dan jg teman-teman gw
-- 💞️ enjoy
+- 👋 Hi there i am @herrosisgd27
+- 👀 you can call me irun
+- 👈 I am currently a student of a computer science undergraduate program
+- 🍸 enjoy
 - 📫 Follow my ig @syh.runn
 
 <!---
